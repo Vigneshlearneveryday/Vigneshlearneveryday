@@ -4,10 +4,10 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a various backgr
 
 ## About Me
 
-- 🧑‍🎓 Currently studying Full Stack Development.
-- 🎓 B.Sc. in Nautical Science.
+- 🧑‍🎓 Currently studying **Full Stack Development**.
+- 🎓 **B.Sc. in Nautical Science**.
 - 🚢 Experienced as a trainee officer on the *Cielo di Guangzhou* ship in European waters.
-- 🎬 Worked as an assistant director for Tamil cinema films *Thunivu* and *Ka Pae Ranasingam*.
+- 🎬 Worked as an assistant director for Tamil cinema films **Thunivu** and **Ka Pae Ranasingam**.
 - 💼 Previously ran a small business in the film industry.
 - 💻 Focused on building my career in the IT industry as a Full Stack Developer.
 - 🌟 Driven by the curiosity to explore new horizons and find my soul in computing.
@@ -30,7 +30,7 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a various backgr
 </p>
 
 
-- **Eager to Learn More:** Always looking to expand my knowledge and explore new technologies.
+- **Love to Learn :** Always looking to expand my knowledge and explore new technologies.
 ---
 <table>
   <tr>
@@ -104,15 +104,16 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a various backgr
 - 🐦 Twitter: [Vignesh Durai Raj]()
 - 🌍 LinkedIn: [Vignesh D](https://www.linkedin.com/in/vignesh-d-389ab7144/)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshlearneveryday&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## Most Used Languages
-
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshlearneveryday&layout=compact)
-
-## Contributions
-
-![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Vigneshlearneveryday)
-
+<table>
+  <tr>
+    <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Vigneshlearneveryday&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <strong><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshlearneveryday&layout=compact" alt="Most Used Languages"/></strong>
+    </td>
+    <td>
+      <strong><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshlearneveryday" alt="Contributions"/></strong>
+    </td>
+  </tr>
+</table>
