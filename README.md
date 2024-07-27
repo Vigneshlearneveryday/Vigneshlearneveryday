@@ -14,46 +14,77 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a rich backgroun
 
 ## Skills & Technologies
 
-- **Languages & Frameworks:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-- **Databases:**
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-- **Tools & Platforms:**
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-- **Styling:**
-  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
 
 - **Eager to Learn More:** Always looking to expand my knowledge and explore new technologies.
+---
+<table>
+  <tr>
+    <td width="100">
+      <img src="https://media.gettyimages.com/id/544177728/photo/benjamin-franklin-by-david-martin.jpg?s=1024x1024&w=gi&k=20&c=ge5qGrUIQfALPgLcjHArND621WZhBIk2Cso3JYUd0PQ=" alt="Observations Concerning the Increase of Mankind" width="80"/>
+    </td>
+    <td>
+      “The greatest glory in living lies not in never falling, but in rising every time we fall.”  
+      —   Benjamin Franklin
+    </td>
+  </tr>
+  <tr>
+    <td width="100">
+      <img src="https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20220209_BID001.jpg" alt="Sapiens: A Brief History of Humankind" width="80"/>
+    </td>
+    <td>
+      “We are the only species that can imagine the future and change the present.”  
+      —   Yuval Noah Harari
+    </td>
+  </tr>
+  <tr>
+    <td width="100">
+      <img src="https://media.gettyimages.com/id/544177728/photo/benjamin-franklin-by-david-martin.jpg?s=1024x1024&w=gi&k=20&c=ge5qGrUIQfALPgLcjHArND621WZhBIk2Cso3JYUd0PQ=" alt="Forever of Benjamin Franklin" width="80"/>
+    </td>
+    <td>
+      “Write something worth reading or do something worth writing.”  
+      —   Benjamin Franklin
+    </td>
+  </tr>
+  <tr>
+    <td width="100">
+      <img src="https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20220209_BID001.jpg" alt="Sapiens: 21 Lessons for the 21st Century" width="80" />
+    </td>
+    <td>
+      “The most important thing is to work together as a team and share knowledge and experience. Only then can we solve the biggest problems.”  
+      —   Yuval Noah Harari
+    </td>
+  </tr>
+</table>
 
-## Quotes That Inspire Me
+***
 
-> “**The greatest glory in living lies not in never falling, but in rising every time we fall.**”  
-> — **Benjamin Franklin**
-
-> “**We are the only species that can imagine the future and change the present.**”  
-> — **Yuval Noah Harari**
-
-> “**Write something worth reading or do something worth writing.**”  
-> — **Benjamin Franklin**
-
-> “**The most important thing is to work together as a team and share knowledge and experience. Only then can we solve the biggest problems.**”  
-> — **Yuval Noah Harari**
 
 ## Favorite Book
-
-One of the best books I’ve read recently is *Educated* by Tara Westover. Her incredible journey of self-discovery and education is deeply inspiring.
+<table style="width:100%;">
+  <tr>
+    <td style="width:70%;">
+      One of the best books I’ve read recently is *Educated* by Tara Westover. Her incredible journey of self-discovery and education is deeply inspiring.
+    </td>
+    <td style="width:30%;">
+      <img src="https://m.media-amazon.com/images/I/71-4MkLN5jL._AC_UF1000,1000_QL80_.jpg" alt="Educated by Tara Westover" width="120"/>
+    </td>
+  </tr>
+</table>
 
 
 
