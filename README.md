@@ -78,7 +78,7 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a rich backgroun
 <table style="width:100%;">
   <tr>
     <td style="width:70%;">
-      One of the best books I’ve read recently is *Educated* by Tara Westover. Her incredible journey of self-discovery and education is deeply inspiring.
+      One of the best books I’ve read recently is " Educated " by Tara Westover. Her incredible journey of self-discovery and education is deeply inspiring.
     </td>
     <td style="width:30%;">
       <img src="https://m.media-amazon.com/images/I/71-4MkLN5jL._AC_UF1000,1000_QL80_.jpg" alt="Educated by Tara Westover" width="120"/>
@@ -87,7 +87,7 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a rich backgroun
   </tr>
   <tr>
     <td style="width:70%;">
-      Another book that has deeply moved me is Incidents in the Life of a Slave Girl by Harriet Ann Jacobs. It offers a powerful perspective on the struggles and resilience of those who endured slavery.
+      Another book that has deeply moved me is " Incidents in the Life of a Slave Girl " by Harriet Ann Jacobs. It offers a powerful perspective on the struggles and resilience of those who endured slavery.
     </td>
     <td style="width:30%;">
       <img src="https://m.media-amazon.com/images/I/71Yi5DnztdL._SL1500_.jpg" alt="Incidents in the Life of a Slave Girl" width="120"/>
