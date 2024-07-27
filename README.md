@@ -1,4 +1,6 @@
-# Hello, I'm Vignesh! 👋
+<h1 align="center">Hello Everyone👋, I'm Vignesh</h1>
+<h3 align="center">Curious Full-Stack Developer from India</h3>
+<img src="https://cdn.pixabay.com/photo/2014/12/28/13/20/wordpress-581849_1280.jpg" width="1200" height="250" >
 
 Welcome to my GitHub profile. I’m a Full Stack Developer with a various background spanning the maritime, film, and tech industries. I’m passionate about learning, exploring new technologies, and continuously growing both professionally and personally.
 
@@ -10,7 +12,7 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a various backgr
 - 🎬 Worked as an assistant director for Tamil cinema films **Thunivu** and **Ka Pae Ranasingam**.
 - 💼 Previously ran a small business in the film industry.
 - 💻 Focused on building my career in the IT industry as a Full Stack Developer.
-- 🌟 Driven by the curiosity to explore new horizons and find my soul in computing.
+- 🌟 Driven by the curiosity to explore new horizons and **find my soul in computing**.
 
 ## Skills & Technologies
 
