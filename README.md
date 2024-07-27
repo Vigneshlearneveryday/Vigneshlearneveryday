@@ -1,6 +1,6 @@
 # Hello, I'm Vignesh! 👋
 
-Welcome to my GitHub profile. I’m a Full Stack Developer with a rich background spanning the maritime, film, and tech industries. I’m passionate about learning, exploring new technologies, and continuously growing both professionally and personally.
+Welcome to my GitHub profile. I’m a Full Stack Developer with a various background spanning the maritime, film, and tech industries. I’m passionate about learning, exploring new technologies, and continuously growing both professionally and personally.
 
 ## About Me
 
