@@ -40,7 +40,7 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a various backgr
       <img src="https://media.gettyimages.com/id/544177728/photo/benjamin-franklin-by-david-martin.jpg?s=1024x1024&w=gi&k=20&c=ge5qGrUIQfALPgLcjHArND621WZhBIk2Cso3JYUd0PQ=" alt="Observations Concerning the Increase of Mankind" width="80"/>
     </td>
     <td>
-      “The greatest glory in living lies not in never falling, but in rising every time we fall.”  
+      “An investment in knowledge pays the best interest.”  
       —   Benjamin Franklin
     </td>
   </tr>
