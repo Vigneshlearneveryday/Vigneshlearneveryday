@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a various backgr
 - 🎬 Worked as an assistant director for Tamil cinema films **Thunivu** and **Ka Pae Ranasingam**.
 - 💼 Previously ran a small business in the film industry.
 - 💻 Focused on building my career in the IT industry as a Full Stack Developer.
-- 🌟 Driven by the curiosity to explore new horizons and **find my soul in computing**.
+- 🌟 Driven by the curiosity to explore new horizons and **find my Interest in computing**.
 
 ## Skills & Technologies
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile. I’m a Full Stack Developer with a various backgr
 </p>
 
 
-- **Love to Learn :** Always looking to expand my knowledge and explore new technologies.
+- **Curious to Learn :** Always looking to expand my knowledge and explore new technologies.
 ---
 <table>
   <tr>
