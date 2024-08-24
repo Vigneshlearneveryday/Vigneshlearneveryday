@@ -2,7 +2,7 @@
 <h3 align="center">An earnest seeker with a multitude of questions...</h3>
 <img src="https://cdn.pixabay.com/photo/2014/12/28/13/20/wordpress-581849_1280.jpg" width="1200" height="250" >
 
-Welcome to my GitHub profile. I’m a Full Stack Developer with a various background spanning the maritime, film, and tech industries. I’m passionate about learning, exploring new technologies, and continuously growing both professionally and personally.
+Welcome to my GitHub haven, where maritime tales, cinematic dreams, and tech innovations blend. As a Full Stack Developer, I’m driven by a passion for learning and a quest for continuous growth.
 
 ## About Me
 
