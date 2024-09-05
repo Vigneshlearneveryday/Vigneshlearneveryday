@@ -40,7 +40,7 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
     </td>
     <td>
       “An investment in knowledge pays the best interest.”  
-      —   Benjamin Franklin
+      ---  Benjamin Franklin
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
     </td>
     <td>
       “We are the only species that can imagine the future and change the present.”  
-      —   Yuval Noah Harari
+      ---  Yuval Noah Harari
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
     </td>
     <td>
       “Write something worth reading or do something worth writing.”  
-      —   Benjamin Franklin
+      ---  Benjamin Franklin
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
     </td>
     <td>
       “The most important thing is to work together as a team and share knowledge and experience. Only then can we solve the biggest problems.”  
-      —   Yuval Noah Harari
+      ---  Yuval Noah Harari
     </td>
   </tr>
 </table>
