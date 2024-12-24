@@ -31,7 +31,7 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
 </p>
 
 
-- **Curious to Learn :** Always looking to expand my knowledge and explore new technologies.
+- **Curious to Learn:** Always looking to expand my knowledge and explore new technologies.
 ---
 <table>
   <tr>
@@ -114,7 +114,8 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
       <strong><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshlearneveryday&layout=compact" alt="Most Used Languages"/></strong>
     </td>
     <td>
-      <strong><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshlearneveryday" alt="Contributions"/></strong>
+      <strong><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshlearneveryday" alt="Contributions" /></strong>
+
     </td>
   </tr>
 </table>
