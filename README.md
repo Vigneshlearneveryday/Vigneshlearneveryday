@@ -113,9 +113,9 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
     <td>
       <strong><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshlearneveryday&layout=compact" alt="Most Used Languages"/></strong>
     </td>
-    <td>
-      <strong><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshlearneveryday" alt="Contributions" /></strong>
+  <td>
+       <strong><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshlearneveryday" alt="Contributions" /></strong> 
 
-    </td>
+  
   </tr>
 </table>
