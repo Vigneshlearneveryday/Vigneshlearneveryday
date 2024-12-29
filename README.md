@@ -79,7 +79,7 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
 <table style="width:100%;">
   <tr>
     <td style="width:70%;">
-      One of the best books I’ve read recently is " Educated " by Tara Westover. Her incredible journey of self-discovery and education is deeply inspiring.
+      One of the best books I’ve ever read is " Educated " by Tara Westover. Her incredible journey of self-discovery and education is deeply inspiring.
     </td>
     <td style="width:30%;">
       <img src="https://m.media-amazon.com/images/I/71-4MkLN5jL._AC_UF1000,1000_QL80_.jpg" alt="Educated by Tara Westover" width="120"/>
