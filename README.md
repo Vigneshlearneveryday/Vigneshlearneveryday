@@ -99,7 +99,6 @@ Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore
 
 
 ## Get in Touch
-
 - 📧 Email: [nauticalvigneshmenon@gmail.com](nauticalvigneshmenon@gmail.com)
 - 🌐 Portfolio: [Yet to be designed]()
 - 🐦 Twitter: [Vignesh Durai Raj]()
