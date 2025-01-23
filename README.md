@@ -1,6 +1,6 @@
 <h1 align="center">Hi.! 🤝🏾  I'm Vignesh, MERN Stack Developer...</h1>
 <h3 align="center">An earnest seeker with a multitude of questions...</h3>
-<img src="https://cdn.pixabay.com/photo/2014/12/28/13/20/wordpress-581849_1280.jpg" width="1200" height="250" >
+<img src="https://cdn.pixabay.com/photo/2014/12/28/13/20/wordpress-581849_1280.jpg" width="1200" height="255" >
 
 Welcome to my GitHub. As a Full Stack Developer, I journey through maritime lore, cinematic worlds, literary depths and historical echoes. I give my all, driven by personal conviction and the desire to make good for those who **trust in my craft**.
 
